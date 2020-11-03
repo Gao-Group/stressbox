@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 '''
-The method is reported in the following reference:
+The method implemented in this script is reported in the following reference:
 Arman Ghasemi, Wei Gao. "A method to apply Piola-Kirchhoff stress in molecular statics simulations", submitted.
 
 The script is written based on the mushbox subroutine in TSASE package developed in Henkelman Group at UT Austin. 
