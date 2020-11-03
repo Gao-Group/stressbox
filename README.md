@@ -1,6 +1,8 @@
 # stressbox
 Two scripts in this repository: stressbox.py and opt_example.py are used to apply stress (including PK stress and Cauchy stress) in molecular statics simulations.
+
 The method is reported in the following paper:
+
 Arman Ghasemi, Wei Gao. "A method to apply Piola-Kirchhoff stress in molecular statics simulations", submitted. 
 
 To use the code:
