@@ -1,5 +1,5 @@
 # stress box
-Two scripts in this repository: stressbox.py and opt_example.py are used to apply stress (including PK stress and Cauchy stress) in molecular statics simulations.
+Two scripts in this repository: stressbox.py and opt_example.py are used to apply stress (including PK stress and Cauchy stress) in molecular statics simulations using force-based method.
 
 The method is reported in the following paper:
 
