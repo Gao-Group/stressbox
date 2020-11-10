@@ -3,7 +3,7 @@ Two scripts in this repository: stressbox.py and opt_example.py are used to appl
 
 The method is reported in the following paper:
 
-Arman Ghasemi, Wei Gao. "A method to apply Piola-Kirchhoff stress in molecular statics simulations", submitted. 
+Arman Ghasemi, Wei Gao. "A method to apply Piola-Kirchhoff stress in molecular statics simulations", https://arxiv.org/abs/2011.03694
 
 To use the code:
 1. Download Atomic Simulation Environment (ASE) package from https://wiki.fysik.dtu.dk/ase/, 3.19.0 version was used to test the scripts.
