@@ -3,7 +3,7 @@
 The method implemented in this script is reported in the following reference:
 Arman Ghasemi, Wei Gao. "A method to apply Piola-Kirchhoff stress in molecular statics simulations", submitted.
 
-The script is written based on the mushbox subroutine in TSASE package developed in Henkelman Group at UT Austin. 
+The script is modified based on the TSASE package developed in Henkelman Group at UT Austin. 
 
 To use this script, please copy it to the directoy of ASE (tested on versiton 3.19.0): ase-3.19.0/ase/
 '''
